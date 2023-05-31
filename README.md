@@ -1,13 +1,9 @@
 <img src="https://github.com/MirkokriM/42_Common_Core/blob/main/README.FILE/MirkokriM_github42_Born2beRoot.png">
 
 ## Table of Contents
-- [Introduction](#introduction)
 - [Project Description](#project-description)
 - [Setup and Requirements](#setup-and-requirements)
 - [Instructions](#instructions)
-
-## Introduction
-Welcome to the Born2beroot project! This is a detailed README.md file for the Born2beroot project, as required for the 42 curriculum. The purpose of this README is to provide an overview of the project, explain the setup and requirements, and provide instructions on how to use it.
 
 ## Project Description
 The Born2beroot project is part of the 42 curriculum and aims to introduce students to the concepts of system administration and security. The goal of the project is to set up a minimal Debian-based server, ensuring its security and implementing various configurations.
